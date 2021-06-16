@@ -1,0 +1,36 @@
+.A {
+ color: red;
+}
+.B {
+    color: blue;
+}
+.C {
+    color: green;
+}
+.D {
+    font-size: large;
+}
+.F {
+    text-align: center;
+}
+.G {
+    font-weight: bold;
+}
+.H {
+    font-family:Arial, Helvetica, sans-serif
+}
+.I {
+    font-size: large;
+    color: orange;
+    font-weight: bold;
+}
+.styledFont {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: green;
+}
+#styledImage {
+    border-radius: 10px;    
+    border: orange solid 5px;
+}
+    
